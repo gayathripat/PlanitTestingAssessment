@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 78.415 s <<< FAILURE! - in TestSuite
+com.planittesting.tests.TestCase_04.executeTestCase4  Time elapsed: 30.813 s  <<< FAILURE!
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at com.planittesting.tests.TestCase_04.executeTestCase4(TestCase_04.java:43)
+

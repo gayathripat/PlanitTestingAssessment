@@ -1,0 +1,11 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.planittesting.tests.TestCase_04"/>
+      <class name="com.planittesting.tests.TestCase_03"/>
+      <class name="com.planittesting.tests.TestCase_02"/>
+      <class name="com.planittesting.tests.TestCase_01"/>
+    </classes>
+  </test> 
+</suite> 

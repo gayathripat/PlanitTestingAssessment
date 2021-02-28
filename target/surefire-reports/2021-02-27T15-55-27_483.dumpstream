@@ -1,0 +1,4 @@
+# Created at 2021-02-27T15:55:28.181
+Boot Manifest-JAR contains absolute paths in classpath 'D:\selenium\com.planittesting.qa\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

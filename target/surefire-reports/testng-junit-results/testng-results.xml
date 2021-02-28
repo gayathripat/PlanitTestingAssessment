@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="12" started-at="2021-02-28T05:01:06Z" finished-at="2021-02-28T05:01:06Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="12" started-at="2021-02-28T05:01:06Z" finished-at="2021-02-28T05:01:06Z">
+      <class name="com.planittesting.qa.com.planittesting.qa.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:testApp(com.planittesting.qa.com.planittesting.qa.AppTest)]" name="testApp" duration-ms="1" started-at="2021-02-28T16:01:06Z" finished-at="2021-02-28T16:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- com.planittesting.qa.com.planittesting.qa.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26508" started-at="2021-02-28T12:30:24Z" finished-at="2021-02-28T12:30:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26508" started-at="2021-02-28T12:30:24Z" finished-at="2021-02-28T12:30:50Z">
+      <class name="com.planittesting.tests.TestCase_04">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.planittesting.tests.TestCase_04@4b9e13df]" name="setUp" is-config="true" duration-ms="5508" started-at="2021-02-28T23:30:24Z" finished-at="2021-02-28T23:30:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="executeTestCase4()[pri:0, instance:com.planittesting.tests.TestCase_04@4b9e13df]" name="executeTestCase4" duration-ms="1198" started-at="2021-02-28T23:30:29Z" finished-at="2021-02-28T23:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTestCase4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.planittesting.tests.TestCase_04@4b9e13df]" name="tearDown" is-config="true" duration-ms="71" started-at="2021-02-28T23:30:31Z" finished-at="2021-02-28T23:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.planittesting.tests.TestCase_04 -->
+      <class name="com.planittesting.tests.TestCase_03">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.planittesting.tests.TestCase_03@2b98378d]" name="setUp" is-config="true" duration-ms="4504" started-at="2021-02-28T23:30:31Z" finished-at="2021-02-28T23:30:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="executeTestCase3()[pri:0, instance:com.planittesting.tests.TestCase_03@2b98378d]" name="executeTestCase3" duration-ms="478" started-at="2021-02-28T23:30:35Z" finished-at="2021-02-28T23:30:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTestCase3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.planittesting.tests.TestCase_03@2b98378d]" name="tearDown" is-config="true" duration-ms="52" started-at="2021-02-28T23:30:36Z" finished-at="2021-02-28T23:30:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.planittesting.tests.TestCase_03 -->
+      <class name="com.planittesting.tests.TestCase_02">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.planittesting.tests.TestCase_02@475530b9]" name="setUp" is-config="true" duration-ms="4448" started-at="2021-02-28T23:30:36Z" finished-at="2021-02-28T23:30:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="executeTestcase2()[pri:0, instance:com.planittesting.tests.TestCase_02@475530b9]" name="executeTestcase2" duration-ms="5256" started-at="2021-02-28T23:30:40Z" finished-at="2021-02-28T23:30:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTestcase2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.planittesting.tests.TestCase_02@475530b9]" name="tearDown" is-config="true" duration-ms="52" started-at="2021-02-28T23:30:45Z" finished-at="2021-02-28T23:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.planittesting.tests.TestCase_02 -->
+      <class name="com.planittesting.tests.TestCase_01">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.planittesting.tests.TestCase_01@1d057a39]" name="setUp" is-config="true" duration-ms="4218" started-at="2021-02-28T23:30:46Z" finished-at="2021-02-28T23:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="executeTestcase01()[pri:0, instance:com.planittesting.tests.TestCase_01@1d057a39]" name="executeTestcase01" duration-ms="654" started-at="2021-02-28T23:30:50Z" finished-at="2021-02-28T23:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTestcase01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.planittesting.tests.TestCase_01@1d057a39]" name="tearDown" is-config="true" duration-ms="51" started-at="2021-02-28T23:30:50Z" finished-at="2021-02-28T23:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.planittesting.tests.TestCase_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

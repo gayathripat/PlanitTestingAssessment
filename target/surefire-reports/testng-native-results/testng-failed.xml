@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test name="Surefire test(failed)">
+    <classes>
+      <class name="com.planittesting.tests.TestCase_02">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.planittesting.tests.TestCase_02 -->
+      <class name="com.planittesting.tests.TestCase_01">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.planittesting.tests.TestCase_01 -->
+      <class name="com.planittesting.tests.TestCase_03">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.planittesting.tests.TestCase_03 -->
+      <class name="com.planittesting.tests.TestCase_04">
+        <methods>
+          <include name="setUp"/>
+          <include name="executeTestCase4"/>
+        </methods>
+      </class> <!-- com.planittesting.tests.TestCase_04 -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
